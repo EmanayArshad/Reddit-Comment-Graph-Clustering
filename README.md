@@ -75,3 +75,12 @@ This combination of **Natural Language Processing (NLP)** and **Graph Analytics*
    ```bash
    git clone https://github.com/Emanay-Arshad/Reddit-Comment-Graph-Clustering.git
    cd Reddit-Comment-Graph-Clustering
+   ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the notebook:
+   ```bash
+   jupyter notebook "Project-code.ipynb"
+   ```
